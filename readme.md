@@ -221,19 +221,19 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/about_biz" target="_blank">About Biz</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/cyber-tech/" target="_blank">Cyber Tech</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/cyber-tech" target="_blank">Cyber Tech</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/d-tv/" target="_blank">D T V</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/d-tv" target="_blank">D T V</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/nolo/" target="_blank">Nolo</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/nolo" target="_blank">Nolo</a></li>
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE5" target"_blank">Static Gaming Site</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/eventrum/" target="_blank">Eventrum</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/eventrum" target="_blank">Eventrum</a></li>
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/charity/" target="_blank">Charity</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE8/" target="_blank">Above</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE8" target="_blank">Above</a></li>
 
 </ol>
 </strong>
@@ -330,7 +330,7 @@ Project Link: [This is the online location of this project ](https://github.com/
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-We must not fail to thank this people for all they have done in and or doing in our reign during this times we needed them most. Thank you, friends. Sending Love from Africa. 💙
+We must not fail to thank this people for all they have done in and or doing in ours reign during this times we needed them most. Thank you, friends. Sending Love from Africa. 💙
 
  - [Victor Chiaka](https://facebook.com/profile.php?id=100081485396181&v=info)
  - [Stephen Michael](https://facebook.com/axxellance/about)
