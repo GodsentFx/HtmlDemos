@@ -258,7 +258,6 @@ Words can't decide how grateful we are, having you around.
 * [x] <b>Update projects & Urls</b>
 * [x] <b>Get reviews</b>
 * [x] <b>Update Everything</b>
-<p>...</p>
 * [ ] <b>Get featured</b>
 * [ ] <b>Release 5 dynamic websites demonstrations</b>
 * [ ] <b>Add a video</b>
@@ -266,14 +265,14 @@ Words can't decide how grateful we are, having you around.
 * [ ] <b>Get GodsentFx Github 'live' stable</b>
 * [ ] <b>Add some web games</b>
 
-<p>...</p>
-
+...
 
 <br>
-God Help! 🔥
+# God Help! 🔥
 <br><br>
 
 <!-- Contributing -->
+
 ## :wave: Contributing
 
 <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/graphs/contributors">
