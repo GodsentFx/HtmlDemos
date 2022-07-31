@@ -83,9 +83,13 @@ All codes here are provided free of cost. We hope they also help you.
 <!-- Screenshots -->
 ### :camera: Snaps
 
+This (gif) sometimes requires additional time to load.)
+
 <div align="center"> 
   <img src="https://lh3.googleusercontent.com/a4lazZVMo_AKe43dhjwGSqb3YcrIzNYc9okoFRzuVuFJd_UmhkHBHY4f-lU32LmBLnj7G_1db6nA0l3Nz783-B4Q-i0O0d_92IqXer7IaDGaDMvQhdnPYp3iqeALwKK5HFR8R1KWtbdsfX8drHFYIcN3v2t3OsXRthWiTyS4o2lJKeccE_0CemC0RCC30RRSsp8NyqefJaJREfwAyEHlATfJhxdZUKGHicA_ndCQ8BqLs6Erd-6bJX2RCOxIJ3q4LCHx5lMZRWouZuAFsNIGrUJPyAgRFOGorVSUTt-AKMv9sLLkx1JnFx0FDbCSXY5GA9wsE010GA2c_Hg53f1fC_AuI6hIuE7mZJYFbcTUwJuyq_2Sws7vA3k9zLPWi5dH3RKUjY5FjnU9A5hX9B5AOG3aQ0dxKua34RsdRfmk9IWTykdaf_yh1W_ZsmoY5f9knCs4nPuKnXCWdaS2SEm_7bwxWU_CVokluwF8j2uaclZKbhPkZdYlbnopqn9w4kKKP3TdoPbctiuMSkS1UoWySVxPS-6kwM8nKG6l3idCUAjpUpdOBYF0IbsrTbQSTbagpNUKpqRlUJ_ai-YdOxD2gsHZGWDpIwCZbpTDeQoFQA_yLHKV3pcF1jY6yrJ_jxsgqE_YTNYrLTY_Fbcfl0tg3k6dN40cz6WUDml0AiW3-D5Wxq00IsoKyvGuTlrw5WtLSseDqQwuUoumR4yGfHOBBPvbmP0jOC_Og4CEAUcY90bYuImrfQOujOeNmfM=w480-h270-no?authuser=0" alt="screenshot" />
 </div>
+<br>
+
 <!-- TechStack -->
 ### :dart: stacks
 
