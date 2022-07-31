@@ -219,7 +219,7 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/Portfolio1/" target="_blank">Portfolio 1</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE8" target="_blank">About Biz</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/about_biz" target="_blank">About Biz</a></li>
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/cyber-tech/" target="_blank">Cyber Tech</a></li>
 <br>
@@ -233,7 +233,7 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/charity/" target="_blank">Charity</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/above/" target="_blank">Above</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE8/" target="_blank">Above</a></li>
 
 </ol>
 </strong>
